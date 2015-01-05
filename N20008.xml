@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026206_0000_0FCF57EC81B28A30"/>
-            <pb facs="tcp:026206_0001_0FD02C431E79AE78"/>
+            <pb facs="unknown:026206_0000_0FCF57EC81B28A30"/>
+            <pb facs="unknown:026206_0001_0FD02C431E79AE78"/>
             <p>AN ACCOUNT OF THE Terrible EFFECTS of the Peſtilential INFECTION IN THE City of <hi>PHILADELPHIA.</hi> WITH AN ELEGY on the Deaths of the People. ALSO A SONG of PRAISE and THANKS<g ref="char:EOLhyphen"/>GIVING, Compoſed for thoſe who have <hi>recovered,</hi> after having been ſmitten with that <hi>dreadful Contagion.</hi>
             </p>
             <p>By the Honourable SAMUEL STEARNS, J. U. <gap reason="illegible: indecipherable" extent="1 letter">
@@ -135,7 +135,7 @@
             </p>
          </div>
          <div type="preface">
-            <pb facs="tcp:026206_0002_0FCF57EEC2BF6E20"/>
+            <pb facs="unknown:026206_0002_0FCF57EEC2BF6E20"/>
             <head>PREFACE.</head>
             <opener>
                <salute>Kind Reader,</salute>
@@ -153,7 +153,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:026206_0003_0FD02C4566011870"/>
+            <pb facs="unknown:026206_0003_0FD02C4566011870"/>
             <head>POETICAL LINES, On the DESTRUCTION of the Citizens of Phi<g ref="char:EOLhyphen"/>ladelphia, by a peſtilential Infection, A. D. 1793.</head>
             <lg>
                <l>FROM Philadelphia comes a doleful ſound,</l>
@@ -189,7 +189,7 @@
                <l>The bile was black, and putrid too indeed,</l>
                <l>And haemorrhages ſometimes did ſucceed;</l>
                <l>
-                  <pb n="2" facs="tcp:026206_0004_0FD02C4B78E27830"/>
+                  <pb n="2" facs="unknown:026206_0004_0FD02C4B78E27830"/>
 The pulſe run high, but often very low.</l>
                <l>Sometimes too quick, and then as much too ſlow;</l>
                <l>The eyes grew red, their pupils did dilate;</l>
@@ -245,7 +245,7 @@ The pulſe run high, but often very low.</l>
                <l>From his <hi>infection</hi> but few have been free,</l>
                <l>But few exempt, of high or low degree,</l>
                <l>
-                  <pb n="3" facs="tcp:026206_0005_0FD02C556A1ED640"/>
+                  <pb n="3" facs="unknown:026206_0005_0FD02C556A1ED640"/>
 Unleſs they have from the great city fled,</l>
                <l>Before the <hi>virus</hi> o'er the ſame was ſpread;</l>
                <l>Or have not been in that large place at all,</l>
@@ -293,7 +293,7 @@ Unleſs they have from the great city fled,</l>
                <l>The ſad <hi>deſtruction</hi> made the people groan!</l>
                <l>Bereav'd of wives, ſome Huſbands live alone!</l>
                <l>
-                  <pb n="4" facs="tcp:026206_0006_0FCF57F045DFF7A0"/>
+                  <pb n="4" facs="unknown:026206_0006_0FCF57F045DFF7A0"/>
 The widows too (it cannot be deny'd)</l>
                <l>By this <hi>infection</hi> have been multiply'd.</l>
                <l>The fatherleſs and orphans did increaſe,</l>
@@ -340,7 +340,7 @@ The widows too (it cannot be deny'd)</l>
                <l>That to thy people thou haſt been ſo kind,</l>
                <l>That this contagion has been much confin'd:</l>
                <l>
-                  <pb n="5" facs="tcp:026206_0007_0FD02C5E2303EDA0"/>
+                  <pb n="5" facs="unknown:026206_0007_0FD02C5E2303EDA0"/>
 Confin'd, indeed, unto a narrow ſpace,</l>
                <l>Preventing death amongſt the human race!</l>
                <l>May all thus favour'd their glad voices raiſe,</l>
@@ -389,7 +389,7 @@ Confin'd, indeed, unto a narrow ſpace,</l>
                <l>But ſometimes leſs, and ſometimes more,</l>
                <l>The daily publications tell,</l>
                <l>
-                  <pb n="6" facs="tcp:026206_0008_0FD02C6118107A08"/>
+                  <pb n="6" facs="unknown:026206_0008_0FD02C6118107A08"/>
 Upon that mournful city's ſhore,</l>
                <l>In that ſhort time, have often fell!</l>
             </lg>
@@ -450,7 +450,7 @@ Upon that mournful city's ſhore,</l>
                <l>And on his footſtool here below!</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:026206_0009_0FCF57F1DDD3B630"/>
+               <pb n="7" facs="unknown:026206_0009_0FCF57F1DDD3B630"/>
                <head>12.</head>
                <l>The famine, ſword, and peſtilence,</l>
                <l>He ſends to deſolate the land!</l>
@@ -501,7 +501,7 @@ Upon that mournful city's ſhore,</l>
                <l>But in a time of deep diſtreſs,</l>
                <l>He rais'd us up again;</l>
                <l>
-                  <pb n="8" facs="tcp:026206_0010_0FD02C65DA6464B8"/>
+                  <pb n="8" facs="unknown:026206_0010_0FD02C65DA6464B8"/>
 And we within his wilderneſs</l>
                <l>As monuments remain!</l>
             </lg>
